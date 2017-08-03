@@ -5,7 +5,7 @@ def wait():
 	time.sleep(2.0)
 
 print("*"*50)
-print("Welcome to the die Game!")
+print("Welcome to the Dice Game!")
 print("A Game of Luck")
 print("*"*50)
 print("Roll the die and if you roll a lucky six; You Win! :)")
