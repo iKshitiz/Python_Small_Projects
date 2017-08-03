@@ -5,7 +5,7 @@ This repository contains source code of my python projects as a practice
 
 A command line Simple Dice Game written using Python 3.
 
-# How to use
+### How to use
  
  Move to folder using 
  ```cd Python_Small_Projects```
