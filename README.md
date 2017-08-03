@@ -9,6 +9,7 @@ A command line Simple Dice Game written using Python 3.
  
  Move to folder using 
  ```cd Python_Small_Projects```
+ 
  Run the python script
  ```python3 Dice_Game.py```
  
