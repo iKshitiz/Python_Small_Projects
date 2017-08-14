@@ -50,27 +50,7 @@ class MyApp(QtGui.QMainWindow, Ui_MainWindow):
         
         sys.exit()
         
-   
-#   user_input = input("Click Roll to Roll\n")
-#        
-#    if(user_input == 'None' or user_input == None):
-#            
-#                
-#            choice = input("Press Y to Play again\nPress N to Exit Game\n")
-#            
-#            if	(choice == 'Y' or choice == 'y'):
-#                continue
-#            
-#            elif (choice == 'N' or choice == 'n'):
-#                break
-#            
-#            else:   
-#                print("\nPlease Enter Y/N.")
-#                
-#    else:
-#                print("\nNot a valid option")
-    
-#  
+     
 if __name__ == "__main__":
     app = QtGui.QApplication(sys.argv)
     window = MyApp()
